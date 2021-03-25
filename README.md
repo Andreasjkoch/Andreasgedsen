@@ -31,10 +31,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasGedsen&layout=compact&hide=html" alt="AndreasGedsen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasGedsen&layout=compact&hide=html&theme=gotham" alt="AndreasGedsen" />
 </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasGedsen&show_icons=true" alt="AndreasGedsen" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasGedsen&show_icons=true&theme=gotham" alt="AndreasGedsen" />
+</p>
 
 <p align="center">
 <a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
