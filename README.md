@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Andreas</h1>
+<h1 align="center">Hi 👋, I'm Andreas Koch</h1>
 <h3 align="center"></h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AndreasGedsen}/count.svg" alt="AndreasGedsen :: Visitor's Count" /></p>
 
-<!-- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
+<!-- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning 
 
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+- 👯 I’m looking to collaborate on 
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
+- 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **info@akhilgkrishnan.me** -->
+- 📫 How to reach me **** -->
 
 
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -31,10 +31,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasGedsen&layout=compact&hide=html" alt="AndreasGedsen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasGedsen&layout=compact&hide=html" alt="AndreasGedsen" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasGedsen&show_icons=true" alt="AndreasGedsen" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreasGedsen&show_icons=true" alt="AndreasGedsen" /></p>
 
 <p align="center">
 <a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
