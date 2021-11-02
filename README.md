@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andreas Koch</h1>
 <h3 align="center"></h3>
-<h2 align="center">Total profile visits:</h1>
+<h2 align="center">Total profile visits:
 <p align="center"><img src="https://profile-counter.glitch.me/{AndreasGedsen}/count.svg" alt="AndreasGedsen :: Visitor's Count" /></p>
-
+</h1>
 <!-- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning 
